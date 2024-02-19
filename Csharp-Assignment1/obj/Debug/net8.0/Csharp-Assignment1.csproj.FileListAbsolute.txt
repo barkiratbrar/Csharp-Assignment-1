@@ -1,0 +1,14 @@
+/Users/barkiratbrar/Projects/Csharp-Assignment1/bin/Debug/net8.0/Csharp-Assignment1
+/Users/barkiratbrar/Projects/Csharp-Assignment1/bin/Debug/net8.0/Csharp-Assignment1.deps.json
+/Users/barkiratbrar/Projects/Csharp-Assignment1/bin/Debug/net8.0/Csharp-Assignment1.runtimeconfig.json
+/Users/barkiratbrar/Projects/Csharp-Assignment1/bin/Debug/net8.0/Csharp-Assignment1.dll
+/Users/barkiratbrar/Projects/Csharp-Assignment1/bin/Debug/net8.0/Csharp-Assignment1.pdb
+/Users/barkiratbrar/Projects/Csharp-Assignment1/obj/Debug/net8.0/Csharp-Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/barkiratbrar/Projects/Csharp-Assignment1/obj/Debug/net8.0/Csharp-Assignment1.AssemblyInfoInputs.cache
+/Users/barkiratbrar/Projects/Csharp-Assignment1/obj/Debug/net8.0/Csharp-Assignment1.AssemblyInfo.cs
+/Users/barkiratbrar/Projects/Csharp-Assignment1/obj/Debug/net8.0/Csharp-Assignment1.csproj.CoreCompileInputs.cache
+/Users/barkiratbrar/Projects/Csharp-Assignment1/obj/Debug/net8.0/Csharp-Assignment1.dll
+/Users/barkiratbrar/Projects/Csharp-Assignment1/obj/Debug/net8.0/refint/Csharp-Assignment1.dll
+/Users/barkiratbrar/Projects/Csharp-Assignment1/obj/Debug/net8.0/Csharp-Assignment1.pdb
+/Users/barkiratbrar/Projects/Csharp-Assignment1/obj/Debug/net8.0/Csharp-Assignment1.genruntimeconfig.cache
+/Users/barkiratbrar/Projects/Csharp-Assignment1/obj/Debug/net8.0/ref/Csharp-Assignment1.dll
